@@ -1,0 +1,9 @@
+numpy
+pandas
+mlxtend
+matplotlib
+scikit-learn
+ucimlrepo
+tabulate
+efficient-apriori
+psutil

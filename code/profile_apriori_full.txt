@@ -1,0 +1,23 @@
+         149131 function calls (148857 primitive calls) in 0.644 seconds
+
+   Ordered by: cumulative time
+   List reduced from 404 to 15 due to restriction <15>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.644    0.644 C:\Users\ransf\Downloads\elastic_pipeline_final\code\apriori.py:14(apriori)
+        1    0.114    0.114    0.412    0.412 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\frequent_patterns\apriori.py:155(apriori)
+        1    0.000    0.000    0.230    0.230 C:\Users\ransf\Downloads\elastic_pipeline_final\code\mlxtend_helpers.py:14(transactions_to_onehot)
+       11    0.223    0.020    0.223    0.020 {method 'reduce' of 'numpy.ufunc' objects}
+        5    0.000    0.000    0.167    0.033 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\frequent_patterns\apriori.py:235(_support)
+        5    0.000    0.000    0.166    0.033 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\_core\fromnumeric.py:2304(sum)
+        6    0.000    0.000    0.166    0.028 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\_core\fromnumeric.py:66(_wrapreduction)
+        1    0.081    0.081    0.129    0.129 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\preprocessing\transactionencoder.py:35(fit)
+        1    0.000    0.000    0.092    0.092 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\_set_output.py:317(wrapped)
+        1    0.092    0.092    0.092    0.092 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\preprocessing\transactionencoder.py:67(transform)
+        4    0.000    0.000    0.057    0.014 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\_core\fromnumeric.py:2548(all)
+        4    0.000    0.000    0.057    0.014 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\_core\fromnumeric.py:86(_wrapreduction_any_all)
+   124405    0.047    0.000    0.047    0.000 {method 'add' of 'set' objects}
+       21    0.036    0.002    0.036    0.002 {built-in method numpy.array}
+       14    0.004    0.000    0.024    0.002 {built-in method numpy.fromiter}
+
+

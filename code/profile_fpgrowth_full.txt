@@ -1,0 +1,23 @@
+         907544 function calls (906069 primitive calls) in 2.263 seconds
+
+   Ordered by: cumulative time
+   List reduced from 334 to 15 due to restriction <15>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.001    0.001    2.263    2.263 C:\Users\ransf\Downloads\elastic_pipeline_final\code\fpgrowth.py:19(fpgrowth)
+        1    0.000    0.000    2.015    2.015 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\frequent_patterns\fpgrowth.py:12(fpgrowth)
+        1    0.003    0.003    1.156    1.156 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\frequent_patterns\fpcommon.py:74(generate_itemsets)
+ 2022/614    0.014    0.000    1.147    0.002 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\frequent_patterns\fpgrowth.py:106(fpg_step)
+      500    0.384    0.001    1.109    0.002 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\frequent_patterns\fpcommon.py:233(conditional_tree)
+        1    0.198    0.198    0.854    0.854 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\frequent_patterns\fpcommon.py:11(setup_fptree)
+    70156    0.444    0.000    0.671    0.000 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\frequent_patterns\fpcommon.py:273(insert_itemset)
+    50156    0.331    0.000    0.410    0.000 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\frequent_patterns\fpcommon.py:336(itempath_from_root)
+        1    0.000    0.000    0.246    0.246 C:\Users\ransf\Downloads\elastic_pipeline_final\code\mlxtend_helpers.py:14(transactions_to_onehot)
+    50770    0.185    0.000    0.185    0.000 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\frequent_patterns\fpcommon.py:327(__init__)
+        1    0.104    0.104    0.155    0.155 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\preprocessing\transactionencoder.py:35(fit)
+    20000    0.107    0.000    0.107    0.000 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\frequent_patterns\fpcommon.py:67(<listcomp>)
+   316911    0.100    0.000    0.100    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.085    0.085 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\_set_output.py:317(wrapped)
+        1    0.085    0.085    0.085    0.085 C:\Users\ransf\AppData\Local\Programs\Python\Python311\Lib\site-packages\mlxtend\preprocessing\transactionencoder.py:67(transform)
+
+

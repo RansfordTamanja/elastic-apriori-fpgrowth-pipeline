@@ -1,0 +1,9 @@
+{
+  "n_transactions": 7501,
+  "support": 0.01,
+  "n_itemsets": 257,
+  "fpgrowth_time": 0.7605507373809814,
+  "serverless_cost_usd": 1.2875870974707603e-05,
+  "cluster_cost_usd": 0.016,
+  "cost_ratio": 1242.6343842237316
+}

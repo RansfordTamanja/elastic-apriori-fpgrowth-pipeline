@@ -1,0 +1,15 @@
+{
+  "cpu": "could not determine ([WinError 2] The system cannot find the file specified)",
+  "cpu_count_logical": 4,
+  "ram_gb": 11.9,
+  "os": "Windows 10",
+  "os_full": "Windows-10-10.0.26200-SP0",
+  "python_version": "3.11.8",
+  "packages": {
+    "numpy": "2.4.6",
+    "pandas": "3.0.5",
+    "mlxtend": "0.25.0",
+    "scipy": "1.17.1",
+    "matplotlib": "3.11.0"
+  }
+}
